@@ -380,6 +380,7 @@ Table styles
     padding-left:1px;
     margin:0px;
     white-space:pre;
+    display: inline-table;
 }
 .overviewSummary caption a:link, .memberSummary caption a:link, .typeSummary caption a:link,
 .useSummary caption a:link, .constantsSummary caption a:link, .deprecatedSummary caption a:link,
